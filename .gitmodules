@@ -1,0 +1,6 @@
+[submodule "springboot-ripple-demo"]
+	path = springboot-ripple-demo
+	url = git@github.com:xkf4806/springboot-ripple-demo.git
+[submodule "cloud-coin-docker"]
+	path = cloud-coin-docker
+	url = git@github.com:xkf4806/cloud-coin-docker.git
